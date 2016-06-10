@@ -2,7 +2,8 @@
 
 ## Tutorials
 
-- [Unreal Engine 4 Tutorial: Space Skybox Creation](https://www.youtube.com/watch?v=JSRsQpRfDlk)
+- [Video tutorial: Space Skybox Creation](https://www.youtube.com/watch?v=JSRsQpRfDlk)
+- [Step-by-step: Simple Space Skybox](https://answers.unrealengine.com/questions/15307/how-to-create-simple-space-skybox.html)
 
 ## TLDR
 
